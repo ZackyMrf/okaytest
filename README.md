@@ -1,0 +1,2 @@
+# okaytest
+testnet
